@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="intermediate_app"
+        android:label="intermediate_mobile_amcc24"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

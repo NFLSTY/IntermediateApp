@@ -1,6 +1,6 @@
-# intermediate_app
+# intermediate_mobile_amcc24
 
-A new Flutter project.
+Mobile programming intermediate course with BLOC and firebase configuration
 
 ## Getting Started
 

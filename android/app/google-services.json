@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "438105439299",
+    "project_id": "intermediate-part2",
+    "storage_bucket": "intermediate-part2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438105439299:android:ba146f19fcd5b26bfe28f6",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3oz3DUWHo9Y4Tsl00splAChSmT1Nv_XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

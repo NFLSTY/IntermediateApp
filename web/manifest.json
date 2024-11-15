@@ -1,6 +1,6 @@
 {
-    "name": "intermediate_app",
-    "short_name": "intermediate_app",
+    "name": "intermediate_mobile_amcc24",
+    "short_name": "intermediate_mobile_amcc24",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
